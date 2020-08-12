@@ -13,12 +13,21 @@ const Footer = () => (
             <Link to={ROUTES.PRIVACY_POLICY}>
                 Privacy Policy
             </Link>
+            <p>
+                |
+            </p>
             <Link to={ROUTES.TERMS_AND_CONDITIONS}>
                 Terms and Conditions
             </Link>
+            <p>
+                |
+            </p>
             <a href="https://211wisconsin.communityos.org/guided-search">
                 211 Madison Basic Needs Search
             </a>
+            <p>
+                |
+            </p>
             <a href="https://www.mkehometostay.org/">
                 Home to Stay
             </a>
